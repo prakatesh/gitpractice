@@ -8,9 +8,5 @@ In git-repo --I am adding the readme file in git-repo
 git pull  --whatever change done that will be clone in local repo
 
 ----<b>Branch</b>------
-git branch --give the current branch and how many branch has being created.
-git checkout branchName --use to swtich from one branch  to other branch.
-git branch branchName --use to created the branch.{"while creating whatever file in main will have same copies in branch which we created"}
 
-
-
+git merge branchName ---use for megre the other branch
