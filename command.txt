@@ -7,3 +7,4 @@ git push   ---staging area to github repo
 In git-repo --I am adding the readme file in git-repo
 git pull  --whatever change done that will be clone in local repo
 
+----<b>Branch</b>------
