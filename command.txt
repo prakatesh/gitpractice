@@ -2,3 +2,7 @@ git add.  --working area to staging area...
 git commit --m"init"   "commit message is important"...
 git status  --for find the status
 git push   ---staging area to github repo
+
+In git-repo --I am adding the readme file in git-repo
+git pull  --whatever change done that will be clone in local repo
+
