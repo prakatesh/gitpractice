@@ -16,4 +16,4 @@ whatever changes in the prakatesh branch wil not visible in main branch
 
 again git pull
 
-git megre branchName ---use for megre the other branch
+git merge branchName ---use for megre the other branch
