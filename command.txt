@@ -13,3 +13,5 @@ git checkout branchName --use to swtich from one branch  to other branch.
 git branch branchName --use to created the branch.{"while creating whatever file in main will have same copies in branch which we created"}
 
 whatever changes in the prakatesh branch wil not visible in main branch
+
+again git pull
