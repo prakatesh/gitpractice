@@ -19,3 +19,12 @@ again git pull
 git merge branchName ---use for megre the other branch
 
 now we again edit the command.txt and we now merge (or) pull request to main branch "to indicate the I have the change something on my branch".
+
+------<b>Here we understand the difference of the git pull and git fetch</b>------
+git pull===git fetch+git merge
+
+-----<b>git pull</b>---
+that download the content from remote repo 
+-----<b>git fetch</b>
+that first notifie that something have being change in remote repo
+then if you need to download the content then use the git merge command
