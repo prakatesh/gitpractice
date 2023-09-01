@@ -32,3 +32,9 @@ then if you need to download the content then use the git merge command
 now again the edit the command.txt in remote repo for performing the gitFetch command.
 now again the edit the command.txt in remote repo for performing the gitPull command.
 
+I am in prakatesh branch
+tommorrow we need use 
+1-log
+2-rebase
+3-graph
+4-patch
