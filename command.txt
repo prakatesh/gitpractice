@@ -17,3 +17,5 @@ whatever changes in the prakatesh branch wil not visible in main branch
 again git pull
 
 git merge branchName ---use for megre the other branch
+
+now we again edit the command.txt and we now merge (or) pull request to main branch "to indicate the I have the change something on my branch".
