@@ -29,4 +29,6 @@ that download the content from remote repo
 that first notifie that something have being change in remote repo
 then if you need to download the content then use the git merge command
 
-now again the edit the command.txt in remote repo for performing the gitFetch command and gitPull command
+now again the edit the command.txt in remote repo for performing the gitFetch command.
+now again the edit the command.txt in remote repo for performing the gitPull command.
+
