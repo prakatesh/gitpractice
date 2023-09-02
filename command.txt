@@ -50,3 +50,4 @@ give the graph for the commit
 difference between the git rebase and git merge
 -->gitMerge that give detail history which branch commit this id 
 -->in gitRebase that give history that all commit have being done on the main branch ("even if commit done on the other branch")
+
