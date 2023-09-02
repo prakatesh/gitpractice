@@ -50,3 +50,5 @@ give the graph for the commit
 difference between the git rebase and git merge
 -->gitMerge that give detail history which branch commit this id 
 -->in gitRebase that give history that all commit have being done on the main branch ("even if commit done on the other branch")
+now you can see the graph photo {"gitrebase.GIF and git_graph1.GIF"} that is same because of rebase and I have one to two commit 
+before the rebase in prakatesh branch but it does not show in graph. 
