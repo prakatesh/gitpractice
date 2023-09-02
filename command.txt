@@ -42,3 +42,6 @@ tommorrow we need use
 Today 
 Find the git log command 
 log command is use to find the commit id and give detail view on the commit ie-->give the commit id,commit name, date and time.
+
+-----<b>git graph</b>-----
+give the graph for the commit
