@@ -38,3 +38,7 @@ tommorrow we need use
 2-rebase
 3-graph
 4-patch
+
+Today 
+Find the git log command 
+log command is use to find the commit id and give detail view on the commit ie-->give the commit id,commit name, date and time.
